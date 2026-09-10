@@ -5,7 +5,7 @@
 // Wrong predictions are the point. For every miss, add one line
 // explaining why, and commit.
 
-console.log(1, 1 == "1");            // prediction:true
+console.log(1, 1 == "1");            // prediction:trueEE
 console.log(2, 1 === "1");           // prediction:false
 console.log(3, 0 == "");             // prediction:true
 console.log(4, 0 === "");            // prediction:false
